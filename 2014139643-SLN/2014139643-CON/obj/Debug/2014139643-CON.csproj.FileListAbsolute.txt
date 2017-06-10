@@ -1,0 +1,13 @@
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-CON.exe.config
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-CON.exe
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-CON.pdb
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-ENT.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-PER.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\EntityFramework.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-ENT.pdb
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-PER.pdb
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\2014139643-PER.dll.config
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\bin\Debug\EntityFramework.xml
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\obj\Debug\2014139643-CON.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\obj\Debug\2014139643-CON.exe
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-CON\obj\Debug\2014139643-CON.pdb

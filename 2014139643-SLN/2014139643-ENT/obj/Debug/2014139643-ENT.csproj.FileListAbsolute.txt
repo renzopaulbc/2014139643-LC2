@@ -1,0 +1,5 @@
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-ENT\bin\Debug\2014139643-ENT.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-ENT\bin\Debug\2014139643-ENT.pdb
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-ENT\obj\Debug\2014139643-ENT.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-ENT\obj\Debug\2014139643-ENT.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-ENT\obj\Debug\2014139643-ENT.pdb

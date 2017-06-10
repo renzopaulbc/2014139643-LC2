@@ -1,0 +1,15 @@
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\2014139643-PER.dll.config
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\2014139643-PER.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\2014139643-PER.pdb
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\2014139643-ENT.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\EntityFramework.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\2014139643-ENT.pdb
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\EntityFramework.xml
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\obj\Debug\2014139643-PER.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\obj\Debug\_2014139643_PER.Migrations.InitialModel.resources
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\obj\Debug\_2014139643_PER.Migrations.UpdateChanges.resources
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\obj\Debug\2014139643-PER.csproj.GenerateResource.Cache
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\obj\Debug\2014139643-PER.dll
+C:\Users\Renzo\Documents\Visual Studio 2017\Projects\2014139643-LC3-LC4\2014139643-SLN\2014139643-PER\obj\Debug\2014139643-PER.pdb
